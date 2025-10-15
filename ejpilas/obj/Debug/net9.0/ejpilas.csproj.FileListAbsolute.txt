@@ -1,0 +1,5 @@
+C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\obj\Debug\net9.0\ejpilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\obj\Debug\net9.0\ejpilas.AssemblyInfoInputs.cache
+C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\obj\Debug\net9.0\ejpilas.AssemblyInfo.cs
+C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\obj\Debug\net9.0\ejpilas.csproj.CoreCompileInputs.cache
+C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\obj\Debug\net9.0\ejpilas.sourcelink.json
