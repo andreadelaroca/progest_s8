@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ejpilas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f93ed08cd9e6e733a70b6ad8c9efd3c3d52b059e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ed885d5782b502630e6167454dd02d3efad7e61")]
 [assembly: System.Reflection.AssemblyProductAttribute("ejpilas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ejpilas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

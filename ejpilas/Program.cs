@@ -5,34 +5,39 @@ class Example
 {
     public static void Main()
     {
-        Stack<string> numeros = new Stack<string>();
-        numeros.Push("uno");
-        numeros.Push("dos");
-        numeros.Push("tres");
-        numeros.Push("cuatro");
-        numeros.Push("cinco");
+        Stack<string> numbers = new Stack<string>();
+        numbers.Push("one");
+        numbers.Push("two");
+        numbers.Push("three");
+        numbers.Push("four");
+        numbers.Push("five");
 
-        foreach(string i in numeros)
+        // A stack can be enumerated without disturbing its contents.
+        foreach( string number in numbers )
         {
-            Console.WriteLine(i);
+            Console.WriteLine(number);
         }
 
-        Console.WriteLine("\nPop '{0}'", numeros.Pop());
-        Console.WriteLine("Peek: {0}", numeros.Peek());
-        Console.WriteLine("Pop '{0}'", numeros.Pop());
+        Console.WriteLine("\nPopping '{0}'", numbers.Pop());
+        Console.WriteLine("Peek at next item to destack: {0}",
+            numbers.Peek());
+        Console.WriteLine("Popping '{0}'", numbers.Pop());
 
-        // Copia la pila, usa el método ToArray y el constructor IEnumerable<T>
-        Stack<string> arreglo = new Stack<string>(numeros.ToArray());
+        // Create a copy of the stack, using the ToArray method and the
+        // constructor that accepts an IEnumerable<T>.
+        Stack<string> stack2 = new Stack<string>(numbers.ToArray());
 
-        Console.WriteLine("\nElementos de la copia:");
-        foreach(string i in copia)
+        Console.WriteLine("\nContents of the first copy:");
+        foreach( string number in stack2 )
         {
-            Console.WriteLine(i);
+            Console.WriteLine(number);
         }
 
-        // Copia la pila a un arreglo con el doble de elementos, inicia en el medio del arreglo
-        string[] arreglo2 = new string[numeros.Count * 2];
-        numeros.CopyTo(arreglo2, numbers.Count);
+        // Create an array twice the size of the stack and copy the
+        // elements of the stack, starting at the middle of the
+        // array.
+        string[] array2 = new string[numbers.Count * 2];
+        numbers.CopyTo(array2, numbers.Count);
 
         // Create a second stack, using the constructor that accepts an
         // IEnumerable(Of T).
@@ -52,3 +57,35 @@ class Example
         Console.WriteLine("\nstack2.Count = {0}", stack2.Count);
     }
 }
+
+/* This code example produces the following output:
+
+five
+four
+three
+two
+one
+
+Popping 'five'
+Peek at next item to destack: four
+Popping 'four'
+
+Contents of the first copy:
+one
+two
+three
+
+Contents of the second copy, with duplicates and nulls:
+one
+two
+three
+
+
+
+
+stack2.Contains("four") = False
+
+stack2.Clear()
+
+stack2.Count = 0
+ */

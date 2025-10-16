@@ -3,3 +3,13 @@ C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\obj\Debug\net9.0\ejpilas.
 C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\obj\Debug\net9.0\ejpilas.AssemblyInfo.cs
 C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\obj\Debug\net9.0\ejpilas.csproj.CoreCompileInputs.cache
 C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\obj\Debug\net9.0\ejpilas.sourcelink.json
+C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\bin\Debug\net9.0\ejpilas.exe
+C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\bin\Debug\net9.0\ejpilas.deps.json
+C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\bin\Debug\net9.0\ejpilas.runtimeconfig.json
+C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\bin\Debug\net9.0\ejpilas.dll
+C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\bin\Debug\net9.0\ejpilas.pdb
+C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\obj\Debug\net9.0\ejpilas.dll
+C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\obj\Debug\net9.0\refint\ejpilas.dll
+C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\obj\Debug\net9.0\ejpilas.pdb
+C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\obj\Debug\net9.0\ejpilas.genruntimeconfig.cache
+C:\Users\minit\OneDrive\Desktop\IIS\PROGEST\s8\ejpilas\obj\Debug\net9.0\ref\ejpilas.dll
