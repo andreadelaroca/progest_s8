@@ -57,35 +57,3 @@ class Example
         Console.WriteLine("\nstack2.Count = {0}", stack2.Count);
     }
 }
-
-/* This code example produces the following output:
-
-five
-four
-three
-two
-one
-
-Popping 'five'
-Peek at next item to destack: four
-Popping 'four'
-
-Contents of the first copy:
-one
-two
-three
-
-Contents of the second copy, with duplicates and nulls:
-one
-two
-three
-
-
-
-
-stack2.Contains("four") = False
-
-stack2.Clear()
-
-stack2.Count = 0
- */
