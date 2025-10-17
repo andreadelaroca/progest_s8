@@ -1,0 +1,15 @@
+/home/carmen/Git/cloned/progest_s8/deshacer/bin/Debug/net8.0/deshacer
+/home/carmen/Git/cloned/progest_s8/deshacer/bin/Debug/net8.0/deshacer.deps.json
+/home/carmen/Git/cloned/progest_s8/deshacer/bin/Debug/net8.0/deshacer.runtimeconfig.json
+/home/carmen/Git/cloned/progest_s8/deshacer/bin/Debug/net8.0/deshacer.dll
+/home/carmen/Git/cloned/progest_s8/deshacer/bin/Debug/net8.0/deshacer.pdb
+/home/carmen/Git/cloned/progest_s8/deshacer/obj/Debug/net8.0/deshacer.GeneratedMSBuildEditorConfig.editorconfig
+/home/carmen/Git/cloned/progest_s8/deshacer/obj/Debug/net8.0/deshacer.AssemblyInfoInputs.cache
+/home/carmen/Git/cloned/progest_s8/deshacer/obj/Debug/net8.0/deshacer.AssemblyInfo.cs
+/home/carmen/Git/cloned/progest_s8/deshacer/obj/Debug/net8.0/deshacer.csproj.CoreCompileInputs.cache
+/home/carmen/Git/cloned/progest_s8/deshacer/obj/Debug/net8.0/deshacer.sourcelink.json
+/home/carmen/Git/cloned/progest_s8/deshacer/obj/Debug/net8.0/deshacer.dll
+/home/carmen/Git/cloned/progest_s8/deshacer/obj/Debug/net8.0/refint/deshacer.dll
+/home/carmen/Git/cloned/progest_s8/deshacer/obj/Debug/net8.0/deshacer.pdb
+/home/carmen/Git/cloned/progest_s8/deshacer/obj/Debug/net8.0/deshacer.genruntimeconfig.cache
+/home/carmen/Git/cloned/progest_s8/deshacer/obj/Debug/net8.0/ref/deshacer.dll
