@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\progest_s8\ejecolas\bin\Debug\net8.0\ejecolas.exe
+C:\Users\USER\Desktop\progest_s8\ejecolas\bin\Debug\net8.0\ejecolas.deps.json
+C:\Users\USER\Desktop\progest_s8\ejecolas\bin\Debug\net8.0\ejecolas.runtimeconfig.json
+C:\Users\USER\Desktop\progest_s8\ejecolas\bin\Debug\net8.0\ejecolas.dll
+C:\Users\USER\Desktop\progest_s8\ejecolas\bin\Debug\net8.0\ejecolas.pdb
+C:\Users\USER\Desktop\progest_s8\ejecolas\obj\Debug\net8.0\ejecolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\progest_s8\ejecolas\obj\Debug\net8.0\ejecolas.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\progest_s8\ejecolas\obj\Debug\net8.0\ejecolas.AssemblyInfo.cs
+C:\Users\USER\Desktop\progest_s8\ejecolas\obj\Debug\net8.0\ejecolas.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\progest_s8\ejecolas\obj\Debug\net8.0\ejecolas.sourcelink.json
+C:\Users\USER\Desktop\progest_s8\ejecolas\obj\Debug\net8.0\ejecolas.dll
+C:\Users\USER\Desktop\progest_s8\ejecolas\obj\Debug\net8.0\refint\ejecolas.dll
+C:\Users\USER\Desktop\progest_s8\ejecolas\obj\Debug\net8.0\ejecolas.pdb
+C:\Users\USER\Desktop\progest_s8\ejecolas\obj\Debug\net8.0\ejecolas.genruntimeconfig.cache
+C:\Users\USER\Desktop\progest_s8\ejecolas\obj\Debug\net8.0\ref\ejecolas.dll
