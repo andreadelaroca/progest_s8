@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("deshacer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+263e9909c859f42d7e4a8ccaac997d1551f5acf2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b662931ad7415ff9f0697c82c629d1b757aa186f")]
 [assembly: System.Reflection.AssemblyProductAttribute("deshacer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("deshacer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
